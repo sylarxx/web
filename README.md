@@ -9,3 +9,4 @@
 
 ## JS
 1. noscript在启用脚本的浏览器中，用户也看不到，但是禁用的时候，会出现
+2. -moz-对应 Firefox,-webkit-对应 Safari and Chrome,-o- for Opera,-ms- for Internet Explorer
